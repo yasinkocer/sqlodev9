@@ -1,1 +1,1 @@
-patika.dev konu sonrası verilen ödevler.
+patika.dev adresiindeki SQL dersi konu sonrası verilen ödevler.
